@@ -4,6 +4,10 @@
 # databases
 *sqlite3
 
+# Client side
+node_modules/
+typings/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
